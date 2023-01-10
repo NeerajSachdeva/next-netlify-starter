@@ -27,9 +27,14 @@ code {
 }
 
 .container {
-  height: 100vh;
+  height: 175vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.gameFrame {
+  height: 100%;
+  width: 200%;
 }
